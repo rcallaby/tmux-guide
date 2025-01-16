@@ -1,5 +1,7 @@
 # Tmux Advanced Features
 
+Below you will find a guide on using some of tmux more advanced features. I have found the vast majority of people new to tmux were unaware of its true power and capabalities. This will give you a good overview of what tmux can do. Hopefully, you will find some of the material below to be helpful.
+
 ## Customizing tmux
 Tmux, a terminal multiplexer, is a powerful tool for managing multiple terminal sessions in a single window. Customizing Tmux to suit your workflow involves understanding its configuration file, plugins, and key bindings. Below is a detailed guide to customizing Tmux like an expert.
 
